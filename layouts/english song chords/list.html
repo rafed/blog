@@ -1,0 +1,31 @@
+{{ define "main" }}
+
+<style>
+    .songlist a {
+        color: inherit;
+    }
+
+    .songlist a:hover {
+        text-decoration: underline;
+    }
+
+    ul {
+        list-style-type: none;
+        font-size: 1.1em;
+    }
+</style>
+
+<div class="content">
+    <h1 class="title">{{ .Title }}</h1>
+
+    <ul class="songlist">
+        {{ $paginator := .Paginate (where .Site.RegularPages.ByTitle ".Section" "in" "english song chords") 100 }}
+        {{ range $paginator.Pages }}
+        <li><a href="{{ .RelPermalink }}"> {{ .Title }}</a></li>
+        {{ end }}
+    </ul>
+</div>
+
+{{- partial "pagination.html" . -}}
+
+{{ end }}

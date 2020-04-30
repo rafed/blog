@@ -12,7 +12,7 @@ pluralizeListTitles = false
 enableemoji = false
 
 [params]
-    description = "A description for the meta tag of the site"
+    description = "Rafed's blog and his random articles"
     googleSearch = "000151824860492892407:kd5zijxwj6a"
     showDate = true # make false if dont want to show date
     math = false # best to enable this in the front matter of a page
@@ -57,5 +57,5 @@ enableemoji = false
     
     [[menu.main]]
         name = "Author"
-        url = "/author/"
+        url = "https://rafed.github.io/"
         weight = 3

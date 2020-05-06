@@ -1,5 +1,5 @@
 ---
-title: How to think like a baby
+title: A different way to think
 date: 2017-09-15
 lastmod: 2020-05-03
 tags: [random]
@@ -7,10 +7,6 @@ image: /image/imagination.png
 draft : true
 description: This one strange, but incredible method of thinking will make you think like a child again.
 ---
-
-## How to think like a baby
-
-<img class="pic" alt="Imagination" src="/img/blog/">
 
 I am always thinking about random stuff. My mind starts off at one point and ends somewhere else completely different. One day, I decided to track how my mind works and I realized something that I hadn't noticed before. I always think using words and sentences. It's the only way my mind can work. Whatever I look at, whatever I do, my mind thinks about it using some sort of spoken language.
 

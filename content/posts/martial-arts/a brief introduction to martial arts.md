@@ -34,8 +34,8 @@ Martial arts may have different styles. Think of it like this, English is spoken
 
 ## A list of my favorite martial arts
 
-1. {{<local href="posts/martial-arts/karate" text="Karate">}}
-1. {{<local href="posts/martial-arts/judo" text="Judo">}}
+1. {{<local-link href="posts/martial-arts/karate" text="Karate">}}
+1. {{<local-link href="posts/martial-arts/judo" text="Judo">}}
 1. Tae Kwon Do
 1. Krav Maga
 1. Wing Chun

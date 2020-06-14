@@ -1,5 +1,5 @@
 ---
-title: তোমার জন্য নীলচে তারার একটুখানি আলো
+title: তোমার জন্য নীলচে তারার একটুখানি আলো (Chords)
 date: 2020-04-29
 description: Chords for তোমার জন্য নীলচে তারার একটুখানি আলো
 tags: ["Bangla chords", "Songs"]

@@ -1,13 +1,10 @@
 ---
 title: Which martial art should I learn
 date: 2017-09-15
-lastmod: 2020-05-03
 tags: [martial arts]
-image: /image/martial-arts/martial-art-to-learn.jpg
-draft : true
+image: martial-art-to-learn.jpg
 ---
 
-description: With so many martial arts to choose from it may be difficult to pick the one that is right for you. Read this one stop guide to know which one you should pick!
 
 Choosing the best martial art for you to learn can be difficult when you don't know the differences between them and especially when you have options to choose from. Here goes a short review on which martial art you should learn.
 

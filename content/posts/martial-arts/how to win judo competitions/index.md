@@ -1,9 +1,8 @@
 ---
 title: How to win Judo competitions
 date: 2017-07-26
-lastmod: 2020-05-03
 tags: [martial arts, judo]
-image: /image/martial-arts/judo-fight.jpg
+image: judo-fight.jpg
 ---
 
 If you have a competition ahead and you have no idea how you should train, this guide is for you. These tips apply whether it's for a dojo fight or a competition. However, this is mostly intended for beginners who do not have much experience with Judo fights and have upcoming contests.

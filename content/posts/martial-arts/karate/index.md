@@ -1,9 +1,8 @@
 ---
 title: "Karate: The way of the empty hand"
 date: 2017-07-20
-lastmod: 2020-05-04
 tags: [martial arts, karate]
-image: /image/martial-arts/karate.png
+image: karate.png
 ---
 
 Karate is a martial art discipline that involves kicking, striking, and defensive blocking. It is practiced as an art (budo), self-defense and a sport. 

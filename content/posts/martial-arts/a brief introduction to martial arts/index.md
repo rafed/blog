@@ -1,9 +1,8 @@
 ---
 title: A brief introduction to martial arts
 date: 2017-07-01
-lastmod: 2020-05-03
 tags: [martial arts]
-image: /image/martial-arts/karate-stick.png
+image: karate-stick.png
 ---
 
 Since the beginning of civilization, people have fought and engaged in war. They devised techniques to take leverage over their opponents and be the victor. This is why the art of fighting started to form and evolve. However, all martial arts did not evolve in the same way. Some focused on health benefits, some focused on spiritual aspects. Some focused on instant kills, and some focused to hurt as least as possible.

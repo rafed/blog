@@ -1,9 +1,9 @@
 ---
-title: A different way to think
+title: A different way of thinking
 date: 2017-09-15
 lastmod: 2020-05-03
 tags: [random]
-image: /image/imagination.png
+image: imagination.png
 draft : true
 description: This one strange, but incredible method of thinking will make you think like a child again.
 ---

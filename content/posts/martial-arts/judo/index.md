@@ -1,9 +1,8 @@
 ---
 title: "Judo: the gentle way"
 date: 2017-07-26
-lastmod: 2020-05-03
 tags: [martial arts, judo]
-image: /image/martial-arts/judo.jpg
+image: judo.jpg
 ---
 
 Judo is a discipline that involves using grappling and leverage to unbalance the opponent. 
